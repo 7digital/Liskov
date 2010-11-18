@@ -1,0 +1,7 @@
+C:\Work\Examples\LiskovSubstitutionPrinciple\LiskovSubstitutionPrinciple\bin\Debug\LiskovSubstitutionPrinciple.dll
+C:\Work\Examples\LiskovSubstitutionPrinciple\LiskovSubstitutionPrinciple\bin\Debug\LiskovSubstitutionPrinciple.pdb
+C:\Work\Examples\LiskovSubstitutionPrinciple\LiskovSubstitutionPrinciple\bin\Debug\nunit.framework.dll
+C:\Work\Examples\LiskovSubstitutionPrinciple\LiskovSubstitutionPrinciple\bin\Debug\nunit.framework.xml
+C:\Work\Examples\LiskovSubstitutionPrinciple\LiskovSubstitutionPrinciple\obj\Debug\ResolveAssemblyReference.cache
+C:\Work\Examples\LiskovSubstitutionPrinciple\LiskovSubstitutionPrinciple\obj\Debug\LiskovSubstitutionPrinciple.dll
+C:\Work\Examples\LiskovSubstitutionPrinciple\LiskovSubstitutionPrinciple\obj\Debug\LiskovSubstitutionPrinciple.pdb

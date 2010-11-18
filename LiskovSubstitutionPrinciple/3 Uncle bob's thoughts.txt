@@ -1,0 +1,21 @@
+﻿Design By Contract is related to LSP. 
+
+The Design By Contract (DBC) defines that every software entity is obliged to 
+continue providing service to other entities. The contract is defined by a set 
+of preconditions and postconditions, which are programmatically translated into 
+signature of the function/method. The caller satisfies certain preconditions upon 
+which the callee with satisfy the postcondition. DBC says
+
+When redefining a routine [in a derivative], you may only replace its 
+precondition by a weaker one, and its postcondition by a stronger one.
+
+In the rectangle-square example, 
+
+The rectangle might have a method setDimensions(height, width), 
+
+Which for square can be translated to setDimensions(side). 
+
+Here the square has replaced the rectangle’s precondition by a stronger one, 
+causing violation of DBC. 
+
+This can be used effectively to make sure that LSP is not violated.

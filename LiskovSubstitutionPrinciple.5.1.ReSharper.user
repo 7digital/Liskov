@@ -1,0 +1,62 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="E802D4E2-E447-436B-B3CD-CCE7B5073201/f:LiskovSubsitution.txt" caret="267" fromTop="6" />
+      <File id="E802D4E2-E447-436B-B3CD-CCE7B5073201/f:ClassicExample.cs" caret="520" fromTop="17" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="E802D4E2-E447-436B-B3CD-CCE7B5073201/f:ClassicExample.cs" caret="1983" fromTop="33" />
+      <File id="E802D4E2-E447-436B-B3CD-CCE7B5073201/f:ClassicExample.cs" caret="1982" fromTop="21" />
+      <File id="E802D4E2-E447-436B-B3CD-CCE7B5073201/f:ClassicExample.cs" caret="1740" fromTop="12" />
+      <File id="E802D4E2-E447-436B-B3CD-CCE7B5073201/f:ClassicExample.cs" caret="1249" fromTop="19" />
+      <File id="E802D4E2-E447-436B-B3CD-CCE7B5073201/f:ClassicExample.cs" caret="390" fromTop="13" />
+      <File id="E802D4E2-E447-436B-B3CD-CCE7B5073201/f:ClassicExample.cs" caret="954" fromTop="10" />
+      <File id="E802D4E2-E447-436B-B3CD-CCE7B5073201/f:ClassicExample.cs" caret="635" fromTop="12" />
+      <File id="E802D4E2-E447-436B-B3CD-CCE7B5073201/f:ClassicExample.cs" caret="793" fromTop="17" />
+      <File id="E802D4E2-E447-436B-B3CD-CCE7B5073201/f:ClassicExample.cs" caret="1131" fromTop="21" />
+      <File id="E802D4E2-E447-436B-B3CD-CCE7B5073201/f:LiskovSubsitution.txt" caret="397" fromTop="2" />
+      <File id="E802D4E2-E447-436B-B3CD-CCE7B5073201/f:LiskovSubsitution.txt" caret="243" fromTop="6" />
+      <File id="E802D4E2-E447-436B-B3CD-CCE7B5073201/f:LiskovSubsitution.txt" caret="267" fromTop="6" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="class" priority="0" />
+      <Item value="void" priority="0" />
+      <Item value="test" priority="0" />
+      <Item value="Assert`0" priority="0" />
+      <Item value="Is`0" priority="0" />
+      <Item value="Square`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@NUnit.Framework.Assert">
+      <Item value="That`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@NUnit.Framework.Is">
+      <Item value="EqualTo`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:LiskovSubstitutionPrinciple.Square">
+      <Item value="getArea`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:LiskovSubstitutionPrinciple.Rectangle">
+      <Item value="GetArea`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

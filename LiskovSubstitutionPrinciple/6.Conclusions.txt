@@ -1,0 +1,5 @@
+﻿The Liskov Substitution Principle
+
+How can you ensure Liskov Substition Principle is enforced?
+
+- DbC?
